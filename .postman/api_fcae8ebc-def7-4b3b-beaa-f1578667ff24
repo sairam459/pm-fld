@@ -9,13 +9,16 @@ id = fcae8ebc-def7-4b3b-beaa-f1578667ff24
 
 [config.relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"869575-42d3f290-9596-443e-a049-de60701001b0","path":"copy(1).json","metaData":{}}
 files[] = {"id":"869575-f6e31432-b2b9-409f-beb6-627c5f182fd8","path":"copy.json","metaData":{}}
+files[] = {"id":"869575-fa05f6ae-21e3-4565-b5e6-186c337fc58f","path":"New Collection(1).json","metaData":{}}
 files[] = {"id":"869575-d511df9b-509a-496e-aced-ad4b00f83219","path":"New Collection.json","metaData":{}}
 
 [config.relations.collections.metaData]
 
 [config.relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"zzddsdscreffcvrefgvregfvrwfcefcredfgrgvtehbyrthyjyjqa5trgregtyhgrthgthaw5rg5thth6eethae5rthg5thtindex Copy.yaml","metaData":{}}
 files[] = {"path":"zzddsdscreffcvrefgvregfvrwfcefcredfgrgvtehbyrthyjyjqa5trgregtyhgrthgthaw5rg5thth6eethae5rthg5thtindex.yaml","metaData":{}}
 
 [config.relations.apiDefinition.metaData]
